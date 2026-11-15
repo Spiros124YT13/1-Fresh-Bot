@@ -8,7 +8,7 @@ import discord
 from discord import app_commands
 from discord.ext import commands
 
-TOKEN = os.environ["DISCORD_TOKEN"]
+TOKEN = os.environ["MTMzODkzOTk5OTg3NzMzMjk5Mg.G747eb.nyxxgT6z5_iGDcN-jasGfmISKJ-Nf18-OOZrCI"]
 DB_PATH = os.getenv("DB_PATH", "/data/tickets.db")
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
